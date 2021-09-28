@@ -1,0 +1,6 @@
+﻿  SRTF.cpp
+C:\Users\CAMILA\source\repos\SRTF\SRTF\SRTF.cpp(43,38): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CAMILA\source\repos\SRTF\SRTF\SRTF.cpp(44,50): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CAMILA\source\repos\SRTF\SRTF\SRTF.cpp(45,45): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CAMILA\source\repos\SRTF\SRTF\SRTF.cpp(10,12): warning C4101: 'j': variable local sin referencia
+  SRTF.vcxproj -> C:\Users\CAMILA\source\repos\SRTF\Debug\SRTF.exe
